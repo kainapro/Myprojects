@@ -98,11 +98,7 @@ namespace rANSOM
             // Encrypt the file.        
             // EncryptFile(@"d:\2.txt",sSecretKey);
 
-            gch.Free();
-            gch.Free();
-            gch.Free();
-            gch.Free();
-            gch.Free();
+         
 
             gch.Free();
 
